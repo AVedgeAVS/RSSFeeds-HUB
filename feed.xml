@@ -1,11 +1,11 @@
 <? xml version="1.0" ?>
 <rss version="2.0">
 <channel>
-<title>AV Edge HUB</title>
+<title>*YOUR BUILD NAME*</title>
 <description></description>
 <link>http://www.yourweb.com</link>
 <item>
-<title> New version of AVEdge HUB… version 18.8.16!! Run the AVEdge HUB app to install. </title>
+<title>******EDIT THIS TEXT***** </title>
 <description> Enjoy </description>
 <link>http://www.yourweb.com</link>
 </channel>
